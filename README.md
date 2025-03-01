@@ -42,20 +42,20 @@
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" />
     &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" />
 </p>
 
 ------------
 
 ### Proyectos
 
+
+
 ------------
 
 ### Contacto
 <p align="left">
     <a href="https://linkedin.com/in/andres0615" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres0615" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres0615" height="30" width="25" />
     </a>
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres0615&show_icons=true&locale=en&layout=compact" alt="andres0615" />
 </p>
