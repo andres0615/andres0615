@@ -1,49 +1,33 @@
 ### Sobre mi
-- Programador fullstack con énfasis en desarrollo backend con PHP.
+- Web Developer
+- Programador fullstack
+- Énfasis en desarrollo backend con PHP
 
 ------------
 
 ### Stack
 #### Lenguajes
 <p align="left">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP" />
     &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Javascript" />
     &nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL" style="text-decoration: none !important;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL" /> 
     &nbsp;&nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript" />
 </p>
 
 #### Frameworks
 <p align="left">
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" title="Laravel" />
     &nbsp;&nbsp;
-    <a href="https://angular.io" target="_blank" rel="noreferrer" title="Angular" style="text-decoration: none;"> 
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> 
-    </a>
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular" />
     &nbsp;&nbsp;
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue.js" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" title="Vue.js" /> 
     &nbsp;&nbsp;
-    <a href="https://www.zend.com/" target="_blank" rel="noreferrer" title="Zend" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="vuejs" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="vuejs" width="40" height="40" title="Zend" />
     &nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="Lumen" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="mysql" width="40" height="40" /> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="mysql" width="40" height="40" title="Lumen" />
 </p>
 
 #### Tecnologias y herramientas
