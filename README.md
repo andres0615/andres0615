@@ -48,7 +48,21 @@
 ------------
 
 ### Proyectos
+#### LA Videos
+<p align="left">
+    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
+</p>
+Plataforma de videos basada en youtube, backend desarrollado con Laravel, frontend desarrollado con Angular.
 
+<p></p>
+
+[![Ver Repositorio](https://img.shields.io/badge/Demo-red)](https://github.com/andres0615/lumen-angular-videos)
+&nbsp;&nbsp;
+[![Ver Demo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/lumen-angular-videos)
+&nbsp;&nbsp;
+![Laravel v5.5](https://img.shields.io/badge/laravel-v5.5-blue?logo=laravel)
+&nbsp;&nbsp;
+![Angular v12](https://img.shields.io/badge/angular-v12-blue?logo=angular)
 
 
 ------------
