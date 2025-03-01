@@ -56,9 +56,9 @@ Plataforma de videos basada en youtube, backend desarrollado con Laravel, fronte
 
 <p></p>
 
-[![Ver Repositorio](https://img.shields.io/badge/Demo-red)](https://github.com/andres0615/lumen-angular-videos)
+[![Ver Demo](https://img.shields.io/badge/Demo-red)](https://la-videos.site/)
 &nbsp;&nbsp;
-[![Ver Demo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://la-videos.site/)
+[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/lumen-angular-videos)
 &nbsp;&nbsp;
 ![Laravel v5.5](https://img.shields.io/badge/laravel-v5.5-blue?logo=laravel)
 &nbsp;&nbsp;
