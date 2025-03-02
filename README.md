@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan Durango</h1>
 
-### Sobre mi
+## Sobre mi
 - Web Developer
 - Programador fullstack
 - Énfasis en desarrollo backend con PHP
@@ -8,8 +8,8 @@
 ------------
 <div align="center">
 
-### Stack
-#### Lenguajes
+## Stack
+### Lenguajes
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" />
     &nbsp;&nbsp;
@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" /> 
 </p>
 
-#### Frameworks
+### Frameworks
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" />
     &nbsp;&nbsp;
@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" />
 </p>
 
-#### Tecnologias y herramientas
+### Tecnologias y herramientas
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" />
     &nbsp;&nbsp;
@@ -50,8 +50,8 @@
 ------------
 <div align="center">
 
-### Proyectos
-#### LA Videos
+## Proyectos
+### LA Videos
 <p align="center">
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
 </p>
@@ -81,7 +81,7 @@
 ------------
 <div align="center">
 
-### Contacto
+## Contacto
 <p align="center">
     <a href="https://linkedin.com/in/andres0615" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres0615" height="30" width="25" />
