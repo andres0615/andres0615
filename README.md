@@ -6,7 +6,6 @@
 - Programador fullstack
 - Énfasis en desarrollo backend con PHP
 
-
 <div align="center">
 
 ## Stack
@@ -48,6 +47,8 @@
 </p>
 </div>
 
+<br>
+
 <div align="center">
 
 ## Proyectos
@@ -55,8 +56,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
 </p>
-
-
 
 <p>
     Plataforma de videos basada en youtube, backend desarrollado con Laravel, frontend desarrollado con Angular.
@@ -77,6 +76,8 @@
 ![Angular v12](https://img.shields.io/badge/angular-v12-blue?logo=angular)
 
 </div>
+
+<br>
 
 <div align="center">
 
