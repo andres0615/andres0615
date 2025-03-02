@@ -51,7 +51,7 @@
 
 <div align="center">
 
-## Proyectos
+## 💼 &nbsp;Proyectos
 ### LA Videos
 <p align="center">
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
