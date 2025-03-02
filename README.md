@@ -6,10 +6,12 @@
 - Énfasis en desarrollo backend con PHP
 
 ------------
+<div align="center">
 
 ### Stack
+
 #### Lenguajes
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" />
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" title="Javascript" />
@@ -22,7 +24,7 @@
 </p>
 
 #### Frameworks
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" />
     &nbsp;&nbsp;
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" />
@@ -35,7 +37,7 @@
 </p>
 
 #### Tecnologias y herramientas
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" />
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" />
@@ -44,6 +46,7 @@
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" />
 </p>
+</div>
 
 ------------
 
