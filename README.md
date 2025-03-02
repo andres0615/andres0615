@@ -9,7 +9,6 @@
 <div align="center">
 
 ### Stack
-
 #### Lenguajes
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" />
@@ -49,10 +48,11 @@
 </div>
 
 ------------
+<div align="center">
 
 ### Proyectos
 #### LA Videos
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
 </p>
 
@@ -76,12 +76,16 @@
 &nbsp;&nbsp;
 ![Angular v12](https://img.shields.io/badge/angular-v12-blue?logo=angular)
 
+</div>
 
 ------------
+<div align="center">
 
 ### Contacto
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/andres0615" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres0615" height="30" width="25" />
     </a>
 </p>
+
+</div>
