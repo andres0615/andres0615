@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bryan Durango</h1>
 
-## Sobre mi
+<h2>Sobre mi</h2>
+
 - Web Developer
 - Programador fullstack
 - Énfasis en desarrollo backend con PHP
 
-------------
+
 <div align="center">
 
 ## Stack
@@ -47,7 +48,6 @@
 </p>
 </div>
 
-------------
 <div align="center">
 
 ## Proyectos
@@ -78,7 +78,6 @@
 
 </div>
 
-------------
 <div align="center">
 
 ## Contacto
