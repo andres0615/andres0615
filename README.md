@@ -4,7 +4,6 @@
 
 - Web Developer
 - Programador fullstack
-- Énfasis en desarrollo backend con PHP
 
 <div align="center">
 
