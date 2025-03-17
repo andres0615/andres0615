@@ -2,8 +2,9 @@
 
 <h2>Sobre mi</h2>
 
-- Web Developer
-- Programador fullstack
+Soy un **desarrollador web full-stack** con experiencia en el desarrollo y mantenimiento de aplicaciones **SaaS**, en empresas con un modelo de negocio **B2B**. Me especializo en el desarrollo de soluciones robustas y escalables utilizando tecnologías como **PHP, Laravel, JavaScript, Vue.js y MySQL**. Tengo solidos conocimientos de **MVC, POO y TDD**.
+
+Me motiva **optimizar procesos** mediante la integración de tecnologías modernas y buenas prácticas de desarrollo. Me gusta aprender nuevas tecnologías que mejoren mis habilidades y beneficien a mi equipo o clientes. 
 
 <div align="center">
 
