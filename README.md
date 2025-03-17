@@ -57,9 +57,24 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
 </p>
 
-<p>
-    Plataforma de videos basada en youtube, backend desarrollado con Laravel, frontend desarrollado con Angular.
+</div>
+
+<div align="left">
+
+<p align="left">
+YouVid es una plataforma web inspirada en YouTube que permite a los usuarios explorar, subir y gestionar videos de manera eficiente. Desarrollada con un enfoque en buenas prácticas y estándares modernos, esta aplicación garantiza una experiencia fluida.
+
+**Tecnologías y Características:**<br>
+- ✅ **Backend con Laravel** – Desarrollo robusto siguiendo los estándares PSR para mantener un código limpio y escalable. <br>
+- ✅ **Frontend con Angular** – Interfaz dinámica y modular con Angular Material, ofreciendo un diseño atractivo y accesible.<br>
+- ✅ **Testing con TDD** – Implementación de pruebas automatizadas para garantizar estabilidad y confiabilidad en cada funcionalidad.<br>
+- ✅ **Convencional Commits** – Estrategia de control de versiones organizada, facilitando el mantenimiento y colaboración.<br>
+- ✅ **Prettier** – Formateo de código consistente para mejorar la legibilidad y estandarización del código.<br>
 </p>
+
+</div>
+
+<div align="center">
 
 <p>
 
