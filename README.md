@@ -52,6 +52,10 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" /></a>
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></a>
 
 </p>
 </div>
