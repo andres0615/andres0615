@@ -26,15 +26,18 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 ### Frameworks
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" />
-    &nbsp;&nbsp;
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" />
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /> 
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" />
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" /></a>
+&nbsp;&nbsp;
+
 </p>
 
 ### Tecnologias y herramientas
