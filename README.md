@@ -43,15 +43,15 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 ### Tecnologias y herramientas
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" /></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" /></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" /></a>
+<a href="https://www.notion.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" /></a>
+<a href="https://www.atlassian.com/es/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
+<a href="https://www.kernel.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
 &nbsp;&nbsp;
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
 &nbsp;&nbsp;
