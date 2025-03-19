@@ -53,9 +53,9 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
+<a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
 &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></a>
 
 </p>
 </div>
