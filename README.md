@@ -43,6 +43,8 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" />
     &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" />
+    &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" />
 </p>
 </div>
