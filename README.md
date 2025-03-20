@@ -16,26 +16,26 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" title="Javascript" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL" /></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" /></a>
 
 </p>
 
 ### Frameworks
 <p align="center">
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></a>
+<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></a>
+<a href="https://angular.dev/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /></a>
+<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" /></a>
+<a href="https://framework.zend.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" /></a>
+<a href="https://lumen.laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" /></a>
 &nbsp;&nbsp;
 
 </p>
