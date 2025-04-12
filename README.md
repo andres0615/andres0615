@@ -97,7 +97,7 @@ Plataforma web inspirada en YouTube que permite a los usuarios explorar, subir y
 
 <!-- [![Ver Demo](https://img.shields.io/badge/Demo-red)](https://la-videos.site/)
 &nbsp;&nbsp; -->
-[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/lumen-angular-videos)
+[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/f-lumen-angular-videos)
 &nbsp;&nbsp;
 ![Laravel v5.5](https://img.shields.io/badge/laravel-v5.5-blue?logo=laravel)
 &nbsp;&nbsp;
