@@ -53,6 +53,8 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 &nbsp;&nbsp;
 <a href="https://www.kernel.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
 &nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" /></a>
+&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
 &nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></a>
