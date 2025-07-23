@@ -67,9 +67,9 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 <div align="center">
 
 ## 💼 &nbsp;Proyectos
-### LA Videos
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/Laravel-AngularJS.jpg" alt="Git" width="220" title="Git" />
+    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/la-videos-logotipo.png" alt="Git" width="220" title="Git" />
 </p>
 
 </div>
