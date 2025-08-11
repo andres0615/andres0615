@@ -102,6 +102,8 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 ![Laravel v11](https://img.shields.io/badge/laravel-v11-blue?logo=laravel)
 &nbsp;&nbsp;
 ![Vue.js v3](https://img.shields.io/badge/vue.js-v3-blue?logo=vue.js)
+&nbsp;&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwindcss-gray?logo=tailwindcss)
 
 </div>
 
