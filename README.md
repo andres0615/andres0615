@@ -13,32 +13,31 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 <p align="center">
 
-<picture width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" style="display: inline-block;" /></picture>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" /></picture>
 &nbsp;&nbsp;
-
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" title="Javascript" /></picture>
 &nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.postgresql.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" /></picture>
 
 </p>
 
 ### Frameworks
 <p align="center">
 
-<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></a>
+
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></picture>
 &nbsp;&nbsp;
-<a href="https://angular.dev/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></a>
+<picture><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></picture>
 &nbsp;&nbsp;
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" title="Vue.js" /></picture>
 &nbsp;&nbsp;
-<a href="https://framework.zend.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zend/zend-original.svg" alt="Zend" width="40" height="40" title="Zend" /></picture>
 &nbsp;&nbsp;
-<a href="https://lumen.laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lumen/lumen-original.svg" alt="Lumen" width="40" height="40" title="Lumen" /></picture>
 &nbsp;&nbsp;
 
 </p>
@@ -46,21 +45,21 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 ### Tecnologias y herramientas
 <p align="center">
 
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" /></picture>
 &nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.notion.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.atlassian.com/software/jira" referrerpolicy="no-referrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.kernel.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" /></picture>
 &nbsp;&nbsp;
-<a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40" title="PhpStorm" /></picture>
 &nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></a>
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></picture>
 
 </p>
 </div>
