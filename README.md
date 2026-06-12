@@ -47,7 +47,7 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="40" height="40" title="Git" /></picture>
 &nbsp;&nbsp;
-<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Github" width="40" height="40" title="Github" /></picture>
+<picture><img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/icons/github-framed.svg" alt="Github" width="40" height="40" title="Github" /></picture>
 &nbsp;&nbsp;
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" title="Notion" /></picture>
 &nbsp;&nbsp;
@@ -62,6 +62,15 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></picture>
 
 </p>
+
+### Tecnologias IA
+<p align="center">
+<picture><img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/icons/claude-framed.svg" alt="Claude Code" width="40" height="40" title="Claude Code" /></picture>
+&nbsp;&nbsp;
+<picture><img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/icons/opencode-light-framed.svg" alt="OpenCode" width="40" height="40" title="OpenCode" /></picture>
+
+</p>
+
 </div>
 
 <br>
