@@ -145,7 +145,7 @@ Plataforma web inspirada en YouTube que permite a los usuarios explorar, subir y
 
 [![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/a6y06cew7qcyvhrucpiyk/la-videos-demo.mp4?rlkey=poekkxukw4pghse3crw9hniwf&st=8j12nisj&dl=0)
 &nbsp;
-[![Ver Repositorio](https://img.shields.io/badge/repositorio-%230f766e?style=for-the-badge)](https://github.com/andres0615/avatar-mind)
+[![Ver Repositorio](https://img.shields.io/badge/repositorio-%230f766e?style=for-the-badge)](https://github.com/andres0615/lumen-angular-videos)
 
 [![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/lumen-angular-videos)
 &nbsp;&nbsp;
