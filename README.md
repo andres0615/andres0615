@@ -102,11 +102,9 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 
 <div align="center">
 
-<p>
-
 [![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/mjjnd8raill6hktmsgc49/avatar-mind-demo.mp4?rlkey=cywl0qcx2x0r4wm9r4cho723r&st=c2r456ds&dl=0)
-
-</p>
+&nbsp;
+[![Ver Repositorio](https://img.shields.io/badge/repositorio-teal?style=for-the-badge)](https://github.com/andres0615/avatar-mind)
 
 [![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/avatar-mind)
 &nbsp;&nbsp;
