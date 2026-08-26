@@ -82,7 +82,7 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 <br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/logotipos/avatar-mind-logo.png" alt="Avatar Mind" width="170" title="Avatar Mind" />
+    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/logotipos/avatar-mind-logo.png" alt="Avatar Mind" width="250" title="Avatar Mind" />
 </p>
 
 </div>
