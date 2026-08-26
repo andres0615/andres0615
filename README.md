@@ -75,11 +75,15 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 <br>
 
+<!-- Proyectos -->
+
 <div align="center">
 
 ## 💼 &nbsp;Proyectos
 
 <br>
+
+<!-- Avatar mind -->
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/logotipos/avatar-mind-logo.png" alt="Avatar Mind" width="250" title="Avatar Mind" />
@@ -100,14 +104,16 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 
 </div>
 
+<!-- Botones de avatar mind -->
+
 <div align="center">
 
 [![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/mjjnd8raill6hktmsgc49/avatar-mind-demo.mp4?rlkey=cywl0qcx2x0r4wm9r4cho723r&st=c2r456ds&dl=0)
 &nbsp;
 [![Ver Repositorio](https://img.shields.io/badge/repositorio-%230f766e?style=for-the-badge)](https://github.com/andres0615/avatar-mind)
 
-[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/avatar-mind)
-&nbsp;&nbsp;
+<!-- badges -->
+
 ![Laravel v11](https://img.shields.io/badge/laravel-v11-blue?logo=laravel)
 &nbsp;&nbsp;
 ![Vue.js v3](https://img.shields.io/badge/vue.js-v3-blue?logo=vue.js)
@@ -120,44 +126,53 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 
 ---
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/andres0615/andres0615/refs/heads/main/la-videos-logotipo.png" alt="Git" width="220" title="Git" />
-</p>
+<!-- Dexa -->
 
-</div>
-
-<div align="left">
-
-<p align="left">
-Plataforma web inspirada en YouTube que permite a los usuarios explorar, subir y gestionar videos de manera eficiente. Desarrollada con un enfoque en buenas prácticas y estándares modernos, esta aplicación garantiza una experiencia fluida.
-
-**Tecnologías y Características:**<br>
-- ✅ **Backend con Laravel** – Desarrollo robusto siguiendo los estándares **PSR** para mantener un código limpio y escalable. <br>
-- ✅ **Frontend con Angular** – Interfaz dinámica y modular con **Angular Material**, ofreciendo un diseño atractivo y accesible.<br>
-- ✅ **Testing con TDD** – Implementación de pruebas automatizadas para garantizar estabilidad y confiabilidad en cada funcionalidad.<br>
-- ✅ **Convencional Commits** – Estrategia de control de versiones organizada, facilitando el mantenimiento y colaboración.<br>
-- ✅ **Prettier** – Formateo de código consistente para mejorar la legibilidad y estandarización del código.<br>
-</p>
-
-</div>
+<br>
 
 <div align="center">
 
-[![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/a6y06cew7qcyvhrucpiyk/la-videos-demo.mp4?rlkey=poekkxukw4pghse3crw9hniwf&st=8j12nisj&dl=0)
-&nbsp;
-[![Ver Repositorio](https://img.shields.io/badge/repositorio-%230f766e?style=for-the-badge)](https://github.com/andres0615/lumen-angular-videos)
+<p align="center">
+    <img src="logotipos/dexa-logotipo-500.png" alt="Dexa" width="250" title="Dexa" />
+</p>
 
-[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/andres0615/lumen-angular-videos)
+</div>
+
+**Dexa** es un sistema de gestión de inventario (kardex) con frontend en **React + TypeScript** y backend **API REST en Laravel**.
+
+### Funcionalidades
+
+- **Productos:** organiza el catálogo en un solo lugar, con precios, categorías y marcas, facilitando la búsqueda y actualización de artículos.
+- **Movimientos de inventario:** permite registrar compras, ventas, ajustes y devoluciones, actualizando el stock automáticamente sin cálculos manuales.
+- **Valuación de inventario:** calcula el valor real del inventario en todo momento, usando costo promedio como metodo de valuacion.
+- **Alertas de stock:** notifica cuando un producto está por agotarse o cuando hay exceso, facilitando la toma de decisiones oportunas.
+- **Proveedores y clientes:** permite administrar terceros, vinculados directamente a los movimientos de compra y venta.
+
+<div align="center">
+
+<p>
+
+[![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/n8sx6tc2qxylxfse7gqxg/dexa-demo.mp4?rlkey=hi2keso8oi0f4ktsw9p0pgss6&st=wcog184u&dl=0)
+
+</p>
+
+![React v19](https://img.shields.io/badge/react-v19-blue?logo=react)
 &nbsp;&nbsp;
-![Laravel v5.5](https://img.shields.io/badge/laravel-v5.5-blue?logo=laravel)
+![TypeScript](https://img.shields.io/badge/typescript-gray?logo=typescript)
 &nbsp;&nbsp;
-![Angular v12](https://img.shields.io/badge/angular-v12-blue?logo=angular)
+![Tailwind](https://img.shields.io/badge/tailwindcss-gray?logo=tailwindcss)
+&nbsp;&nbsp;
+![Laravel v11](https://img.shields.io/badge/laravel-v11-blue?logo=laravel)
 
 </div>
 
 <br>
 
 ---
+
+<!-- La Estadisticas -->
+
+<br>
 
 <div align="center">
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andres0615&theme=dark&hide_border=false" />
