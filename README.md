@@ -8,8 +8,12 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 <div align="center">
 
+<!-- Teck Stack -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;Tech Stack
 ### Lenguajes
+
+<!-- Lenguajes -->
 
 <p align="center">
 
@@ -25,11 +29,15 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 
 </p>
 
+<!-- Frameworks -->
+
 ### Frameworks
 <p align="center">
 
 
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" title="Laravel" /></picture>
+&nbsp;&nbsp;
+<picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" /></picture>
 &nbsp;&nbsp;
 <picture><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" title="Angular" /></picture>
 &nbsp;&nbsp;
@@ -41,6 +49,8 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 &nbsp;&nbsp;
 
 </p>
+
+<!-- Tecnologias y herramientas -->
 
 ### Tecnologias y herramientas
 <p align="center">
@@ -62,6 +72,8 @@ Me motiva **optimizar procesos** mediante la integración de tecnologías modern
 <picture><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" /></picture>
 
 </p>
+
+<!-- Tecnologias IA -->
 
 ### Tecnologias IA
 <p align="center">
@@ -150,11 +162,17 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 
 <div align="center">
 
+<!-- Botones -->
+
 <p>
 
 [![Ver Demo](https://img.shields.io/badge/demo-red?style=for-the-badge)](https://www.dropbox.com/scl/fi/n8sx6tc2qxylxfse7gqxg/dexa-demo.mp4?rlkey=hi2keso8oi0f4ktsw9p0pgss6&st=wcog184u&dl=0)
+&nbsp;
+[![Ver Repositorio](https://img.shields.io/badge/repositorio-%230f766e?style=for-the-badge)](https://github.com/andres0615/dexa-frontend)
 
 </p>
+
+<!-- Badges -->
 
 ![React v19](https://img.shields.io/badge/react-v19-blue?logo=react)
 &nbsp;&nbsp;
