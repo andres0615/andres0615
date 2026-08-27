@@ -186,12 +186,3 @@ Construido con **Laravel 11**, **Vue.js 3**, **MySQL**, **Tailwind CSS** y poten
 
 <br>
 
----
-
-<!-- La Estadisticas -->
-
-<br>
-
-<div align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andres0615&theme=dark&hide_border=false" />
-</div>
